@@ -1,0 +1,7 @@
+.env
+seen_projects.json
+clients.json
+__pycache__/
+*.pyc
+.venv/
+venv/
