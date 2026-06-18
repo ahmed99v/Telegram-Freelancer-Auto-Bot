@@ -101,3 +101,7 @@ Get-Content clients.json | ConvertFrom-Json | ForEach-Object {
     }
 }
 ```
+
+
+
+The client information didn't been fetched yet.
