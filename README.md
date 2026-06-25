@@ -16,7 +16,7 @@ Build a Shopify -> Xero sync app
    posted: 23  |  completed: 18  |  incomplete: 1
    ⭐ 4.8/5 (16 reviews)
    📊 honeviz (US) — posts: 13, Websites, IT & Software: 10, Design, Media & Architecture: 3
-
+(But the client info doesn't work)
 🔗 https://www.freelancer.com/projects/<seo-url>
 ```
 
