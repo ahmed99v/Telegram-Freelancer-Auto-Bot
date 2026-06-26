@@ -105,3 +105,6 @@ Get-Content clients.json | ConvertFrom-Json | ForEach-Object {
 
 
 The client information didn't been fetched yet.
+The freelancer.com didn't serve the clients infos.
+But the freelancer channel shows the clients name.
+How can solve?
