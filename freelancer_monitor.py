@@ -474,6 +474,7 @@ def main() -> int:
             log(f"network error: {e}")
         except Exception as e:
             log(f"tick error: {e!r}")
+        # Wait for set secs to control the timeline and sync
         time.sleep(POLL_INTERVAL_SEC)
 
 
